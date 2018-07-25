@@ -1,6 +1,6 @@
 class SessionsController < ApplicationController
   def create
-    if !sessions.username 
+    if !sessions.username
     end
   end
 end
